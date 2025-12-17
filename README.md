@@ -4,11 +4,12 @@ This portfolio showcases 18+ real-world Java projects and 4 mini apps I have bui
 Click on any project link to access the full code.
 
 ## Mini Apps
-- [Expense Tracker](https://github.com/m2ammar/ExpenseTracker)
-- [Inventory Management](https://github.com/m2ammar/InventoryManagement)
-- [Student Grading System](https://github.com/m2ammar/StudentGradingSystem)
 
-## Real-World Projects
-- [Flight Reservation System](https://github.com/m2ammar/FlightReservationSystem)
-- [Bank Management System](https://github.com/m2ammar/BankManagementSystem)
-- [Hotel Booking System](https://github.com/m2ammar/HotelBookingSystem)
+### Expense Tracker
+[View Code](https://github.com/m2ammar/Mini_Apps/blob/main/src/ExpenseTracker.java)
+
+### Student Grading System
+[View Code](https://github.com/m2ammar/Mini_Apps/blob/main/src/StudentGrading.java)
+
+### Inventory Management System
+[View Code](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java)
