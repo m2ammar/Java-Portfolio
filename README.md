@@ -1,7 +1,8 @@
 # Muhammad Ammar Saleem - Java Portfolio
 
-This portfolio showcases 18+ real-world Java projects and 4 mini apps I have built from scratch.  
-Click on any project link to access the full code.
+Welcome to my **Java Portfolio**, where I showcase **18+ real-world projects** and **3 main mini apps** built from scratch. This portfolio demonstrates my programming skills, problem-solving ability, and understanding of Java fundamentals—from beginner-friendly tasks to complex real-world applications.
+
+---
 
 ## Mini Apps
 
@@ -13,3 +14,12 @@ Click on any project link to access the full code.
 
 ### Inventory Management System
 [View Code](https://github.com/m2ammar/Mini_Apps/blob/main/src/InventoryNStockManagementSystem.java)
+
+## Other Real-World Projects
+- **Flight Reservation System** – Book flights with seat selection.  
+- **Bank Management System** – Handle accounts, deposits, and withdrawals.  
+- **Hotel Booking System** – Reserve rooms and manage bookings.  
+- **Calculator (No GUI)** – Command-line calculator for basic operations.  
+- **Beginner-Friendly Projects** – Console-based exercises to strengthen Java foundations.
+
+This portfolio is designed so that anyone can quickly explore my **mini apps**, while other projects are available in their **individual repositories** with detailed READMEs explaining their tasks and implementations.
