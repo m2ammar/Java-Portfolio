@@ -1,6 +1,6 @@
 # Muhammad Ammar Saleem - Java Portfolio
 
-Welcome to my **Java Portfolio**, where I showcase **18+ real-world projects** and **3 main mini apps** built from scratch. This portfolio demonstrates my programming skills, problem-solving ability, and understanding of Java fundamentals—from beginner-friendly tasks to complex real-world applications.
+Welcome to my **Java Portfolio**, where I showcase **18+ real-world projects** and **5 main mini apps** built from scratch. This portfolio demonstrates my programming skills, problem-solving ability, and understanding of Java fundamentals—from beginner-friendly tasks to complex real-world applications.
 
 ---
 
