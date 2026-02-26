@@ -30,3 +30,6 @@ Handles vehicle booking, rental days, and cost calculation. Demonstrates multi-m
 - **Beginner-Friendly Projects** – Console-based exercises to strengthen Java foundations.
 
 This portfolio is designed so that anyone can quickly explore my **mini apps**, while other projects are available in their **individual repositories** with detailed READMEs explaining their tasks and implementations.
+
+LinkedIn: https://www.linkedin.com/in/muhammad-ammar-b533a0323/
+GitHub: https://github.com/muhammad-ammar
